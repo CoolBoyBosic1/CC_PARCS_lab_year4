@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+docs_*.txt
+docs_*.txt.labels
+synthetic.txt*
+out_*.txt
